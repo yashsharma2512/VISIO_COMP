@@ -8,10 +8,10 @@ import time
 # SETTINGS
 # ===============================
 
-MODEL_PATH = "keras_model.h5"
-LABELS_PATH = "labels.txt"
+MODEL_PATH = "gesmodel.h5"
+LABELS_PATH = "labelsg.txt"
 
-SERIAL_PORT = "COM29"      # change this
+SERIAL_PORT = "COM42"      # change this
 BAUD_RATE = 115200
 CAMERA_INDEX = 2
 IMG_SIZE = 224
